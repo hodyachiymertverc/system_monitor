@@ -142,7 +142,7 @@ function launchLiveDashboard() {
 <div class="terminal-line">[PID 4096]  node password_vault.js     | MEM: <span id="pid-3" class="dynamic-val">1.8</span>% | STATUS: CRYPTO</div>
 <div class="terminal-line"> </div>
 <div class="terminal-line">=======================================================================</div>
-<div class="terminal-line">> Access Source Code: <a href="https://github.com/ТВОЙ_НИК" target="_blank" style="color: #00ffff; text-decoration: underline; font-weight: bold;">[OPEN_GITHUB_REPOSITORIES]</a></div>
+<div class="terminal-line">> Access Source Code: <a href="https://github.com/hodyachiymertverc?tab=repositories" target="_blank" style="color: #00ffff; text-decoration: underline; font-weight: bold;">[OPEN_GITHUB_REPOSITORIES]</a></div>
 `;
     
     outputDiv.innerHTML = dashboardHTML;
